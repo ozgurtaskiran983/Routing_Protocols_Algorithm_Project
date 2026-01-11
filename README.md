@@ -36,6 +36,12 @@ Standart Dijkstra, %95 doluluk oranına sahip kısa yolu seçip darboğaza girer
 
 ---
 
+### 4. Akıllı Ağ Simülasyonu ve Analiz Sonucu
+50 düğümlü geniş ölçekli bir ağ üzerinde yapılan testlerde, geliştirilen sistemin anlık trafik yoğunluğunu (kırmızı hatlar) başarıyla analiz ettiği ve toplam veri iletim süresini optimize ettiği görülmektedir.
+
+![50 Router Akıllı Ağ Simülasyonu Sonucu](images/sekil7.png)
+
+
 ## 👥 Geliştiriciler
 * **Özgür Taşkıran** 
 * **Ömer Faruk Aşkın** 
